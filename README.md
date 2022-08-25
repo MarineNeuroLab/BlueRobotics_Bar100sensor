@@ -1,5 +1,6 @@
 # BlueRobotics_Bar100sensor
 For correcting pressure measurements collected with the Bar100 sensor from Blue Robotics
+*This is a first draft and documentation is still work in progress - suggestions for improvements to code are welcome*
 
 
 For correcting pressure measurements collected with the Bar100 sensor from Blue Robotics by calculating a baseline at sealevel from the first few measurements obtained and calculating the correct depth based on the corrected values
